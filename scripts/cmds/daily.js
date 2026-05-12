@@ -4,14 +4,14 @@ module.exports = {
 	config: {
 		name: "daily",
 		version: "1.2",
-		author: "NTKhang",
+		author: "Chitron Bhattacharjee",
 		countDown: 5,
 		role: 0,
 		description: {
 			vi: "Nhận quà hàng ngày",
 			en: "Receive daily gift"
 		},
-		category: "game",
+		category: "𝗪𝗔𝗟𝗟𝗘𝗧",
 		guide: {
 			vi: "   {pn}: Nhận quà hàng ngày"
 				+ "\n   {pn} info: Xem thông tin quà hàng ngày",
@@ -20,7 +20,7 @@ module.exports = {
 		},
 		envConfig: {
 			rewardFirstDay: {
-				coin: 100,
+				coin: 10000,
 				exp: 10
 			}
 		}
@@ -46,8 +46,8 @@ module.exports = {
 			friday: "Friday",
 			saturday: "Saturday",
 			sunday: "Sunday",
-			alreadyReceived: "You have already received the gift",
-			received: "You have received %1 coin and %2 exp"
+			alreadyReceived: "𝑯𝒖𝒎 𝒕𝒐𝒊 𝒍𝒂 𝒕𝒖 𝒆𝒔 𝒖𝒏 𝒆𝒔𝒄𝒓𝒐 𝒉𝒊𝒆𝒏, 𝒕𝒖 𝒂 𝒅𝒆𝒋𝒂 𝒓𝒆𝒄𝒖 𝒕𝒐𝒏 𝒐𝒔𝒆𝒊𝒍𝒍𝒆 𝒅𝒆 𝒍𝒂 𝒑𝒂𝒓𝒕 𝒅𝒖 𝑩𝒐𝒔𝒔 ✰𝗗𝗘𝗫𝗧𝗘𝗨𝗥✰ ",
+			received: "𝑽𝒐𝒖𝒔 𝒂𝒗𝒊𝒆𝒛 𝒓𝒆𝒄̧𝒖 %1 coin 𝒆𝒕 %2 exp 𝒅𝒆 𝒍𝒂 𝒑𝒂𝒓𝒕 𝒅𝒖 𝒎𝒐𝒏 𝑩𝒐𝒔𝒔 👨‍💼 𝒕𝒂𝒑 •𝒔𝒍𝒐𝒕 𝒈𝒊𝒓𝒍 𝒐𝒖 𝒔𝒍𝒐𝒕 𝒃𝒐𝒚 𝒑𝒐𝒖𝒓 𝒋𝒐𝒖𝒆́ 🧛‍♂️"
 		}
 	},
 
